@@ -1,6 +1,4 @@
 Good Afternoon Git!!
 I'm cs student.
 aaaa
-bbb
-ccc
 ddd
